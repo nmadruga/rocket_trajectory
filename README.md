@@ -1,1 +1,2 @@
-# rocket_trajectory
+# Optimization final assignement
+## rocket_trajectory
